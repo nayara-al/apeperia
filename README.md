@@ -1,2 +1,2 @@
-# apeperia
-Projeto de site responsivo feito a partir das aulas da plataforma alura
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
